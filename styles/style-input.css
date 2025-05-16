@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f6f7f8;
+}
+
+.bg-home {
+  background-image: url("../assets/bg.png");
+}

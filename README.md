@@ -8,3 +8,4 @@ Site funcional para utilização de lanchonetes ou para outros serviços com com
 4- Controle de horários de abertura e fechamento de loja, evitando mensagens fora de horário;
 5- Calculo total de pedidos e lista de produtos selecionados;
 6- Design simples e funcional;
+
